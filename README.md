@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Soumo-ghost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Soumo-ghost" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/soumasish-chakraborty-336b4036a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Soumasish Chakraborty " height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumasish-chakraborty-336b4036a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Soumasish Chakraborty " height="30" width="40" /></a>
 <a href="https://codechef.com/users/calm_manor_63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="calm_manor_63" height="30" width="40" /></a>
 <a href="https://leetcode.com/Honerdman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Honerdman" height="30" width="40" /></a>
 </p>
