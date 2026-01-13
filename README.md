@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumo-ghost&label=Profile views&color=0e75b6&style=flat" alt="Soumo-ghost" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soumo-ghost" alt="Soumo-ghost" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/Soumo-ghost=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I'm currently working on **A usable Website **
 
